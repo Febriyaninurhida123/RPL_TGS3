@@ -64,7 +64,6 @@ Activity Diagram Hasil Pemilihan
 
 ![revisi10](https://github.com/Febriyaninurhida123/RPL_TGS3/assets/90132092/1e6c89f7-c9fd-4fc7-87ad-d91c16e0a184)
 
-
 ## Sequence
 ![revisi11](https://github.com/Febriyaninurhida123/RPL_TGS3/assets/90132092/7f49cf82-7a02-443a-89ee-0d91b30ef855)
 
