@@ -48,7 +48,7 @@ Penting untuk memperhatikan bahwa perancangan dan implementasi sistem E-Voting y
 
 # Usecase, Activity Diagram, Sequence, Dan Class Diagram
 ## Usecase
-![revisi5](https://github.com/Febriyaninurhida123/RPL_TGS3/assets/90132092/4c7cb40e-f933-492e-8d81-00e2adffb056)
+![ss23](https://github.com/Febriyaninurhida123/RPL_TGS3/assets/90132092/2012f079-51f5-46db-a5b3-742f16efb53e)
 
 
 ## Activity Diagram
